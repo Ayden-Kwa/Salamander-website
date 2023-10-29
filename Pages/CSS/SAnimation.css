@@ -87,3 +87,18 @@
         transform:rotate(0deg);
     }
 }
+.ghost{
+    animation-name: ghost-in;
+    animation-duration: 6s;
+}
+@keyframes ghost-in{
+    0%{
+        opacity:0;
+    }
+    50%{
+        opacity:0.5;
+    }
+    100%{
+        opacity:1;
+    }
+}
