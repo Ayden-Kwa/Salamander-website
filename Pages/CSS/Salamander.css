@@ -46,3 +46,23 @@ footer{
     color:navy;
     background-color:yellow;
 }
+.float{
+    position:absolute;
+    top:100px;
+    left:270px;
+}
+.float2{
+    position:absolute;
+    top:120px;
+    left:810px;
+}
+.float3{
+    position:absolute;
+    top:130px;
+    left:275px;
+}
+.float4{
+    position:absolute;
+    top: 161px;
+    left:275px;
+}
